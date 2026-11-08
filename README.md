@@ -90,8 +90,3 @@ Comedy and Drama lead on total revenue, followed by combination genres such as C
 - Genres are stored as pipe-separated combinations (`Action|Adventure|Science Fiction`), so the PivotTable groups each combination separately rather than each individual genre.
 - A small number of records carry an invalid release year and fall outside the named decades.
 
----
-
-## Author
-
-**Riyam Alhayzan** — Information Systems student, Prince Sattam bin Abdulaziz University
